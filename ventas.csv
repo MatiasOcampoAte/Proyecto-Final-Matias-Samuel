@@ -1,0 +1,2 @@
+venta_id,fecha,cliente_id,subtotal,descuento,iva,envio,total,estado
+V0001,2026-11-08,C01,60000,6000,10260,5000,69260,CONFIRMADA
