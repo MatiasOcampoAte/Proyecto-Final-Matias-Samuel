@@ -252,7 +252,7 @@ archivos.
 ## 9. Autor
 
 Proyecto académico de gestión de comercio electrónico:
- Samuel lopez 
+ Samuel lopez,  
  Matias Ocampo
 
 ------------------------------------------------------------------------
